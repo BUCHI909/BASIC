@@ -1,0 +1,52 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero{
+    /* background: #000; */
+    height: 500px;
+    background-image: url(./images/images\ \(3\).jpeg);
+    background-repeat: no-repeat;
+    object-fit: contain;
+    background-size: cover;
+}
+.navbar-brand img{
+    width: 30px;
+
+}
+#cool{
+    width: 60px;
+    border-radius: 30px;
+    
+}
+.flat img{
+    width: 40px;
+    border: thin solid rgb(116, 116, 218);
+    padding: 5px;
+}
+.fol img{
+    width: 30px;
+    position: relative;
+    bottom: 10px;
+
+}
+strong{
+    position: relative;
+    top: 5px;
+}
+.ball p{
+    color: grey;
+}
+.contain{
+    height: 300px;
+}
+
+.jam{
+    background-color: rgb(124, 191, 220);
+}
+.jon img{
+    width: 30px;
+}
+footer ul, li, a{
+    text-decoration: none;
+
+}
