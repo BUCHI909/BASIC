@@ -50,3 +50,12 @@ footer ul, li, a{
     text-decoration: none;
 
 }
+@media screen and (max-width:768px) {
+    .hard{
+        /* background-color: brown; */
+        display: flex ;
+        /* flex-wrap: wrap; */
+
+    }
+    
+}
